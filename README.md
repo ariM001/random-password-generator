@@ -1,2 +1,2 @@
 # git-tutorials
-this is a basic repository which generates a random password
+it generates a random password
